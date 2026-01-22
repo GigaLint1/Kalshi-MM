@@ -119,7 +119,7 @@ pip install -r requirements.txt
 Create a `.env` file:
 ```env
 DEMO_KEYID=your-api-key-id
-DEMO_KEYFILE=./gigalint.pem
+DEMO_KEYFILE=./your-pem-file
 KALSHI_ENVIRONMENT=DEMO  # or PROD
 ```
 
